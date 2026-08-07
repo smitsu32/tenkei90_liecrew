@@ -15,6 +15,7 @@ liecrew の解を記録・管理するためのものです。
 
 ## 命名規則
 
-- 問題番号を先頭に付与（例: `001_bisect.py`, `002.py`）
+- 問題番号（3桁ゼロ埋め）をファイル名とする（例: `001.py`）
+- 同一問題番号で複数解法を記録する場合のみ、区別用のsuffixを付与（例: `003_bfs.py`, `003_dfs.py`）
 
 [![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)
